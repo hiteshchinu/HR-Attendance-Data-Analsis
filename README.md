@@ -7,21 +7,16 @@ This repository contains the HR Data Analysis project . The analysis focuses on 
 ## Table of Contents
 
 1. [Project Description](#project-description)
-2. [Files and Directory Structure](#files-and-directory-structure)
-3. [How to Access the Power BI Report](#how-to-access-the-power-bi-report)
-4. [Key Visualizations and Metrics](#key-visualizations-and-metrics)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
+2. [How to Access the Power BI Report](#how-to-access-the-power-bi-report)
+3. [Key Visualizations and Metrics](#key-visualizations-and-metrics)
+4. [Usage](#usage)
+5. [Contributing](#contributing)
 
 ## Project Description
 
 The HR Data Analysis project focuses on analyzing attendance data for employees in the given project. The Power BI report, named "HR Attendance Data Analysis," provides interactive visualizations and key metrics for better insights into employee attendance patterns.
 
-## Files and Directory Structure
 
-- `/data`: Contains the raw data files used for the analysis.
-- `/power_bi_report`: Includes the Power BI project file (.pbix).
-- `/scripts`: Holds any scripts or code used in the data analysis process.
 
 ## How to Access the Power BI Report
 
@@ -30,11 +25,10 @@ The HR Data Analysis project focuses on analyzing attendance data for employees 
    ```bash
    git clone https://github.com/hiteshchinu/HR-Attendance-Data-Analysis.git
 
-2. Navigate to the `/power_bi_report` directory.
 
-3. Open the "HR Attendance Data Analysis.pbix" file using Power BI Desktop.
+2. Open the "HR data analytics.pbix" file using Power BI Desktop.
 
-4. Explore the interactive report to gain insights into employee attendance data.
+3. Explore the interactive report to gain insights into employee attendance data.
 
 ## Key Visualizations and Metrics
 
