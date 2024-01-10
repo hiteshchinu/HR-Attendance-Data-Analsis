@@ -44,6 +44,9 @@ The HR Data Analysis project focuses on analyzing attendance data for employees 
 
 - **Graphs for Presence %, WFH %, Sick Leave % by Date:** Visual representations of attendance trends over time.
 
+![powerBI](https://github.com/hiteshchinu/HR-Attendance-Data-Analysis/assets/82470023/598db355-dd75-46fb-a2b5-846ebe399340)
+
+
 ## Usage
 
 Feel free to explore the Power BI report interactively. Utilize the slicer to analyze data for specific months and delve into key metrics and visualizations. If you have any questions or suggestions, please reach out.
